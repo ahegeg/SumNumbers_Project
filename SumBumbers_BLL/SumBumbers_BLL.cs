@@ -11,6 +11,8 @@ namespace SumBumbers_BLL
         public double SumNumbers(double x, double y)
         {
             return x + y;
+
+            ; ;
         }
     }
 }
