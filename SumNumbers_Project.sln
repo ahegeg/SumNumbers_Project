@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers_Project", "SumNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumBumbers_BLL", "SumBumbers_BLL\SumBumbers_BLL.csproj", "{3724A0CA-72DF-4C1F-A775-31475342052F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers.Test", "SumNumbers.Test\SumNumbers.Test.csproj", "{AA914955-5BA7-47AF-AC0E-6C5CCE01ADEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3724A0CA-72DF-4C1F-A775-31475342052F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3724A0CA-72DF-4C1F-A775-31475342052F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3724A0CA-72DF-4C1F-A775-31475342052F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA914955-5BA7-47AF-AC0E-6C5CCE01ADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA914955-5BA7-47AF-AC0E-6C5CCE01ADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA914955-5BA7-47AF-AC0E-6C5CCE01ADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA914955-5BA7-47AF-AC0E-6C5CCE01ADEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
