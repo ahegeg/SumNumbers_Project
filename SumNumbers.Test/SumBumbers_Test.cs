@@ -11,6 +11,7 @@ namespace SumNumbers.Test
         {
             SumBumbers_BLL.SumBumbers_BLL testObj = new SumBumbers_BLL.SumBumbers_BLL();
             Assert.AreEqual(testObj.SumNumbers(10, 4), 14);
+            Assert.AreEqual(1, 1, "test succeded");
         }
 
         [TestMethod]
